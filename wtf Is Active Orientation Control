@@ -1,0 +1,3 @@
+Hey guys i'm attempting to create a program that will analyze gyroscope data and use a reaction wheel to reorient our shuttle such that it always faces inwards. This will involve communication between two arduinos, one on the arm and one on the shuttle. The one on the arm will transmit it's current gyroscope reading to the one on the shuttle so the shuttle can compare it's gyroscope readings and use the control wheel to make it's readings match the arm's readings. (by reorienting the shuttle via reaction wheel). 
+
+it probably wont work (: 
